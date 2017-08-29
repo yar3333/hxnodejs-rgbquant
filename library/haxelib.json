@@ -1,0 +1,11 @@
+{
+  "name": "hxnodejs-rgbquant",
+  "license": "MIT",
+  "tags": ["node","nodejs","rgbquant"],
+  "description": "Image quantization library.",
+  "contributors": ["yar3333"],
+  "releasenote": "Init.",
+  "version": "1.1.2",
+  "url": "https://bitbucket.org/yar3333/hxnodejs-rgbquant",
+  "dependencies": {}
+}
